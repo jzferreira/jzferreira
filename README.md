@@ -1,4 +1,7 @@
-### Hi there 👋
+### Just a Software Engineer - Digital But Not Influencer
+
+I am passionate about technology, how it can be used to solve problems in other areas, and how my work can impact people's lives.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzferreira&exclude_repo=mestrado&langs_count=8&layout=compact)](https://github.com/jzferreira/github-readme-stats)
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzferreira&count_private=true&show_icons=true&theme=graywhite)
